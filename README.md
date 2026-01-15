@@ -10,3 +10,5 @@ In this assignment, I can solve the question of operation set.This assignment im
 ## Assignment 2
 Through this assignment, I learn more deep into combinational.   
 [Ass2](https://github.com/limlijing/SECI1013_DS/blob/main/assignment2_DS.pdf)
+## Assignment 3
+In this assignment,I learn how to apply the probability in our life.
